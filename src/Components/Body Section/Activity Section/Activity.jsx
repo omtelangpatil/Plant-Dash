@@ -31,7 +31,7 @@ const Activity = () => {
                     </div>
                 </div>
                 <div className="singleCustomer flex">
-                    <img src={img9} alt="Customer Image"/>
+                    <img src={img9} alt="Customer"/>
                     <div className="customerDetails">
                         <span className="name">Mike Tyson</span>
                         <small>Ordered a new plant</small>
@@ -41,7 +41,7 @@ const Activity = () => {
                     </div>
                 </div>
                 <div className="singleCustomer flex">
-                    <img src={img10} alt="Customer Image"/>
+                    <img src={img10} alt="Customer"/>
                     <div className="customerDetails">
                         <span className="name">Tfai amfe</span>
                         <small>Ordered a new plant</small>
@@ -51,7 +51,7 @@ const Activity = () => {
                     </div>
                 </div>
                 <div className="singleCustomer flex">
-                    <img src={img11} alt="Customer Image"/>
+                    <img src={img11} alt="Customer"/>
                     <div className="customerDetails">
                         <span className="name">walter white</span>
                         <small>Ordered a new plant</small>
@@ -61,7 +61,7 @@ const Activity = () => {
                     </div>
                 </div>
                 <div className="singleCustomer flex">
-                    <img src={img12} alt="Customer Image"/>
+                    <img src={img12} alt="Customer"/>
                     <div className="customerDetails">
                         <span className="name">shelton kiaf</span>
                         <small>Ordered a new plant</small>
