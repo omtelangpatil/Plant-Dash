@@ -27,7 +27,7 @@ const Top = () => {
                     <TbMessageCircle className="icon"/>
                     <IoMdNotificationsOutline className="icon"></IoMdNotificationsOutline>
                     <div className="adminImage">
-                        <img src={img} alt="Admin Image"/>
+                        <img src={img} alt="Admin"/>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ const Top = () => {
                         </span>
                         </div>
                         <div className="imgDiv">
-                            <img src={img2} alt="Image Name"/>
+                            <img src={img2} alt="Name"/>
                         </div>
 
                     {/*<div className="sideBarCard">
