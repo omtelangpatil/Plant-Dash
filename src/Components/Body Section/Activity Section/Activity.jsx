@@ -21,7 +21,7 @@ const Activity = () => {
 
             <div className="secContainer grid">
                 <div className="singleCustomer flex">
-                    <img src={img8} alt="Customer Image"/>
+                    <img src={img8} alt="Customer"/>
                     <div className="customerDetails">
                         <span className="name">Martha Wayne</span>
                         <small>Ordered a new plant</small>
