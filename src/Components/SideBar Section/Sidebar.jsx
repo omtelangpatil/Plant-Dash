@@ -15,7 +15,7 @@ const Sidebar = () => {
     return(
         <div className="sideBar grid">
             <div className="logoDiv flex">
-                <img src={logo} alt="Image Name" />
+                <img src={logo} alt="Name" />
                 <h2>Planti.</h2>
             </div>
             <div className="menuDiv">
@@ -24,7 +24,7 @@ const Sidebar = () => {
                 </h3>
                 <ul className="menuLists grid">
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <IoMdSpeedometer className="icon"/>
                             <span className="smallText">
                                 Dash board
@@ -33,7 +33,7 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <MdDeliveryDining className="icon"/>
                             <span className="smallText">
                                 My Order
@@ -42,7 +42,7 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <MdOutlineExplore className="icon"/>
                             <span className="smallText">
                                 Explore
@@ -51,7 +51,7 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <BsTrophy className="icon"/>
                             <span className="smallText">
                                 Products
@@ -67,7 +67,7 @@ const Sidebar = () => {
                 </h3>
                 <ul className="menuLists grid">
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <AiOutlinePieChart className="icon"/>
                             <span className="smallText">
                                 Charts
@@ -76,7 +76,7 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <BiTrendingUp className="icon"/>
                             <span className="smallText">
                                 Trends
@@ -84,7 +84,7 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <MdOutlinePermContactCalendar className="icon"/>
                             <span className="smallText">
                                 Contact
@@ -93,7 +93,7 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li className="listItem">
-                        <a href="#" className="menuLink flex">
+                        <a href="/#" className="menuLink flex">
                             <BsCreditCard2Front className="icon"/>
                             <span className="smallText">
                                 Billing
