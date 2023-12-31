@@ -26,25 +26,25 @@ const Listing = () => {
             <div className="secContainer flex">
                 <div className="singleItem">
                     <AiFillHeart className="icon"/>
-                    <img src={img} alt="Image Name"/>
+                    <img src={img} alt="Name"/>
                     <h3>Annual Vince</h3>
                 </div>
 
                 <div className="singleItem">
                     <AiFillHeart className="icon"/>
-                    <img src={img1} alt="Image Name"/>
+                    <img src={img1} alt="Name"/>
                     <h3>Annual Vince</h3>
                 </div>
 
                 <div className="singleItem">
                     <AiFillHeart className="icon"/>
-                    <img src={img2} alt="Image Name"/>
+                    <img src={img2} alt="Name"/>
                     <h3>Annual Vince</h3>
                 </div>
 
                 <div className="singleItem">
                     <AiFillHeart className="icon"/>
-                    <img src={img3} alt="Image Name"/>
+                    <img src={img3} alt="Name"/>
                     <h3>Annual Vince</h3>
                 </div>
             </div>
@@ -59,10 +59,10 @@ const Listing = () => {
                 </div>
                     <div className="card flex"> 
                         <div className="users">
-                            <img src={img4} alt="User Image" />
-                            <img src={img5} alt="User Image" />
-                            <img src={img6} alt="User Image" />
-                            <img src={img7} alt="User Image" />
+                            <img src={img4} alt="User" />
+                            <img src={img5} alt="User" />
+                            <img src={img6} alt="User" />
+                            <img src={img7} alt="User" />
                         </div>
                         <div className="cardText">
                             <span>
@@ -85,10 +85,10 @@ const Listing = () => {
                 </div>
                     <div className="card flex"> 
                         <div className="users">
-                            <img src={img4} alt="User Image" />
-                            <img src={img5} alt="User Image" />
-                            <img src={img6} alt="User Image" />
-                            <img src={img7} alt="User Image" />
+                            <img src={img4} alt="User" />
+                            <img src={img5} alt="User" />
+                            <img src={img6} alt="User" />
+                            <img src={img7} alt="User" />
                         </div>
                         <div className="cardText">
                             <span>
